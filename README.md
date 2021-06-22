@@ -38,7 +38,7 @@ Agredicimentos em especial e créditos ao [Arthur Ribeiro](https://github.com/de
 
 # 📕 Licença
 
-A licença utilizada no projeto é a MIT. Para mais detalhes leia [arquivo de licença].
+A licença utilizada no projeto é a MIT. Para mais detalhes leia [LICENSE](LICENSE).
 
 # 🍀Como contribuir
 1. Fork it (<https://github.com/eng-edu/statistics-covid19-br/fork>)
